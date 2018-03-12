@@ -1,0 +1,3635 @@
+<?xml version="1.0"?>
+<files xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <file name="all-source.xml">
+    <photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="150540545323012224" idplateEnabled="false" css="     #previewFull {background-color: #666666 !important; width: 750px !important; color: inherit}     #liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}     .borderRightDotted {border-right: 1px dotted #787878 !important;}     .logo {display: none !important;}     #liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}     .detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}     .emptyThumbnail {background-color: #949494 !important; color: inherit;}     .thumbnail {background-color: #949494 !important; color: inherit;}     .previewFullImage {height: 720px !important; width: 750px !important;}     #stage2 {width: 750px !important;}     .itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}     #content {background-color: #4c4c4c !important; color: inherit;}     .borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}     #stage {width: 484px !important;}     .caption {color: #b3b3b3 !important; background-color: inherit;}     #wrapper2 {width: 750px !important;}     .borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}     #wrapper {width: 484px !important;}     #liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}     .paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}     .selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}     #liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}     #thumbnailName {color: #b3b3b3 !important; background-color: inherit;}     #largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}     .borderBottom {border-bottom: 1px solid #787878 !important;}     .borderRight {border-right: 1px solid #787878 !important;}     body {background-color: #4c4c4c !important; color: inherit;}    " identityPlateAbsolutePath="" numCols="3" numRows="3" homePage="index.html" imageBase="content" cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Thu Sep 14 2017 12:10:53 GMT-0400"/>
+			<groupTitle value="My Photographs"/>
+			<contactInfo value="Michael Mathew" link="mailto:michael.mathew@stonybrook.edu"/>
+			<siteTitle value="LifeGallery"/>
+			<groupDescription value="Website Photo Gallery "/>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"/>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"/>
+			<item id="Fullsize" localized="Fullsize"/>
+			<item id="Next" localized="Next"/>
+			<item id="Previous" localized="Previous"/>
+			<item id="EmptyGallery" localized="There are no images in this gallery."/>
+			<item id="more" localized="more"/>
+			<item id="Index" localized="Index"/>
+		</localization>
+	</display>
+	<head>
+		<siteTitle/>
+		<collectionName/>
+		<collectionTitle/>
+		<collectionDescription/>
+		<contactInfo/>
+		<slideDuration/>
+		<sizes>
+			<size name="large" height="720" width="720"/>
+			<size name="thumb" height="129" width="129"/>
+		</sizes>
+	</head>
+	<samples totalGallerySize="24" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1505405453235" filename="IMG_2363" tipname="%_tempFileNameIMG_2363%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2363.jpg" height="720" width="540" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2363.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="1_1505405465960" filename="IMG_2364" tipname="%_tempFileNameIMG_2364%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2364.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2364.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="2_1505405465962" filename="IMG_2367" tipname="%_tempFileNameIMG_2367%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2367.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2367.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="3_1505405465964" filename="IMG_2375" tipname="%_tempFileNameIMG_2375%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2375.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2375.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="4_1505405465967" filename="IMG_2377" tipname="%_tempFileNameIMG_2377%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2377.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2377.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="5_1505405465969" filename="IMG_2380" tipname="%_tempFileNameIMG_2380%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2380.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2380.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="6_1505405465971" filename="IMG_2382" tipname="%_tempFileNameIMG_2382%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2382.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2382.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="7_1505405465973" filename="IMG_2384" tipname="%_tempFileNameIMG_2384%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2384.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2384.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="8_1505405465976" filename="IMG_2387" tipname="%_tempFileNameIMG_2387%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2387.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2387.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="9_1505405465978" filename="IMG_2392" tipname="%_tempFileNameIMG_2392%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2392.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2392.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="10_1505405465980" filename="IMG_2393" tipname="%_tempFileNameIMG_2393%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2393.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2393.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="11_1505405465983" filename="IMG_2399" tipname="%_tempFileNameIMG_2399%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2399.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2399.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="12_1505405465985" filename="IMG_2403" tipname="%_tempFileNameIMG_2403%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2403.jpg" height="720" width="540" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2403.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="13_1505405465987" filename="IMG_2408" tipname="%_tempFileNameIMG_2408%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2408.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2408.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="14_1505405465989" filename="IMG_2430" tipname="%_tempFileNameIMG_2430%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2430.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2430.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="15_1505405465991" filename="IMG_2432" tipname="%_tempFileNameIMG_2432%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2432.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2432.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="16_1505405465993" filename="IMG_2439" tipname="%_tempFileNameIMG_2439%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2439.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2439.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="17_1505405465996" filename="IMG_2446" tipname="%_tempFileNameIMG_2446%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2446.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2446.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="18_1505405465998" filename="IMG_2456" tipname="%_tempFileNameIMG_2456%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2456.jpg" height="720" width="540" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2456.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="19_1505405466000" filename="IMG_2457" tipname="%_tempFileNameIMG_2457%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2457.jpg" height="720" width="720" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2457.jpg" height="129" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="20_1505405466002" filename="IMG_2459" tipname="%_tempFileNameIMG_2459%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2459.jpg" height="720" width="540" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2459.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="21_1505405466004" filename="IMG_2463" tipname="%_tempFileNameIMG_2463%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2463.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2463.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="22_1505405466006" filename="IMG_2464" tipname="%_tempFileNameIMG_2464%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2464.jpg" height="320" width="240" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2464.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="23_1505405466009" filename="IMG_2467" tipname="%_tempFileNameIMG_2467%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_2467.jpg" height="720" width="540" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_2467.jpg" height="129" width="96" size="thumb"/>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"/>
+		<lastImage index="24"/>
+		<mode value="all"/>
+	</siteParams>
+</photoCollection>
+  </file>
+  <file name="content/150540545323012224_custom.css">     #previewFull {background-color: #666666 !important; width: 750px !important; color: inherit}     #liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}     .borderRightDotted {border-right: 1px dotted #787878 !important;}     .logo {display: none !important;}     #liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}     .detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}     .emptyThumbnail {background-color: #949494 !important; color: inherit;}     .thumbnail {background-color: #949494 !important; color: inherit;}     .previewFullImage {height: 720px !important; width: 750px !important;}     #stage2 {width: 750px !important;}     .itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}     #content {background-color: #4c4c4c !important; color: inherit;}     .borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}     #stage {width: 484px !important;}     .caption {color: #b3b3b3 !important; background-color: inherit;}     #wrapper2 {width: 750px !important;}     .borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}     #wrapper {width: 484px !important;}     #liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}     .paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}     .selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}     #liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}     #thumbnailName {color: #b3b3b3 !important; background-color: inherit;}     #largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}     .borderBottom {border-bottom: 1px solid #787878 !important;}     .borderRight {border-right: 1px solid #787878 !important;}     body {background-color: #4c4c4c !important; color: inherit;}    </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="index.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="content/150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+        <script type="text/javascript" src="resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript" src="resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage">
+            <div id="index">
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='content/IMG_2363_large.html'">
+                <div class="itemNumber">1</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID0_1505405453235_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2363_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2363.jpg" id="ID0_1505405453235_thumb" alt="%_tempFileNameIMG_2363%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='content/IMG_2364_large.html'">
+                <div class="itemNumber">2</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID1_1505405465960_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2364_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2364.jpg" id="ID1_1505405465960_thumb" alt="%_tempFileNameIMG_2364%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='content/IMG_2367_large.html'">
+                <div class="itemNumber">3</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID2_1505405465962_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2367_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2367.jpg" id="ID2_1505405465962_thumb" alt="%_tempFileNameIMG_2367%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='content/IMG_2375_large.html'">
+                <div class="itemNumber">4</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID3_1505405465964_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2375_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2375.jpg" id="ID3_1505405465964_thumb" alt="%_tempFileNameIMG_2375%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='content/IMG_2377_large.html'">
+                <div class="itemNumber">5</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID4_1505405465967_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2377_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2377.jpg" id="ID4_1505405465967_thumb" alt="%_tempFileNameIMG_2377%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='content/IMG_2380_large.html'">
+                <div class="itemNumber">6</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID5_1505405465969_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2380_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2380.jpg" id="ID5_1505405465969_thumb" alt="%_tempFileNameIMG_2380%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='content/IMG_2382_large.html'">
+                <div class="itemNumber">7</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID6_1505405465971_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2382_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2382.jpg" id="ID6_1505405465971_thumb" alt="%_tempFileNameIMG_2382%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='content/IMG_2384_large.html'">
+                <div class="itemNumber">8</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID7_1505405465973_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2384_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2384.jpg" id="ID7_1505405465973_thumb" alt="%_tempFileNameIMG_2384%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='content/IMG_2387_large.html'">
+                <div class="itemNumber">9</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID8_1505405465976_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="content/IMG_2387_large.html" onclick="return needThumbImgLink;">
+                            <img src="content/bin/images/thumb/IMG_2387.jpg" id="ID8_1505405465976_thumb" alt="%_tempFileNameIMG_2387%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div class="pagination">
+            <ul>
+              <li class="current">1</li>
+              <li>
+                <a href="content/index_2.html">2</a>
+              </li>
+              <li>
+                <a href="content/index_3.html">3</a>
+              </li>
+              <li class="previous">Previous</li>
+              <li class="next">
+                <a class="paginationLinks" href="content/index_2.html">Next</a>
+              </li>
+            </ul>
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage">
+            <div id="index">
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2363_large.html'">
+                <div class="itemNumber">1</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID0_1505405453235_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2363_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2363.jpg" id="ID0_1505405453235_thumb" alt="%_tempFileNameIMG_2363%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2364_large.html'">
+                <div class="itemNumber">2</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID1_1505405465960_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2364_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2364.jpg" id="ID1_1505405465960_thumb" alt="%_tempFileNameIMG_2364%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2367_large.html'">
+                <div class="itemNumber">3</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID2_1505405465962_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2367_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2367.jpg" id="ID2_1505405465962_thumb" alt="%_tempFileNameIMG_2367%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2375_large.html'">
+                <div class="itemNumber">4</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID3_1505405465964_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2375_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2375.jpg" id="ID3_1505405465964_thumb" alt="%_tempFileNameIMG_2375%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2377_large.html'">
+                <div class="itemNumber">5</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID4_1505405465967_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2377_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2377.jpg" id="ID4_1505405465967_thumb" alt="%_tempFileNameIMG_2377%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2380_large.html'">
+                <div class="itemNumber">6</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID5_1505405465969_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2380_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2380.jpg" id="ID5_1505405465969_thumb" alt="%_tempFileNameIMG_2380%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='IMG_2382_large.html'">
+                <div class="itemNumber">7</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID6_1505405465971_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2382_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2382.jpg" id="ID6_1505405465971_thumb" alt="%_tempFileNameIMG_2382%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='IMG_2384_large.html'">
+                <div class="itemNumber">8</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID7_1505405465973_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2384_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2384.jpg" id="ID7_1505405465973_thumb" alt="%_tempFileNameIMG_2384%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='IMG_2387_large.html'">
+                <div class="itemNumber">9</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID8_1505405465976_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2387_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2387.jpg" id="ID8_1505405465976_thumb" alt="%_tempFileNameIMG_2387%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div class="pagination">
+            <ul>
+              <li class="current">1</li>
+              <li>
+                <a href="index_2.html">2</a>
+              </li>
+              <li>
+                <a href="index_3.html">3</a>
+              </li>
+              <li class="previous">Previous</li>
+              <li class="next">
+                <a class="paginationLinks" href="index_2.html">Next</a>
+              </li>
+            </ul>
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index_2.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage">
+            <div id="index">
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2392_large.html'">
+                <div class="itemNumber">10</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID9_1505405465978_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2392_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2392.jpg" id="ID9_1505405465978_thumb" alt="%_tempFileNameIMG_2392%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2393_large.html'">
+                <div class="itemNumber">11</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID10_1505405465980_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2393_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2393.jpg" id="ID10_1505405465980_thumb" alt="%_tempFileNameIMG_2393%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2399_large.html'">
+                <div class="itemNumber">12</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID11_1505405465983_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2399_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2399.jpg" id="ID11_1505405465983_thumb" alt="%_tempFileNameIMG_2399%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2403_large.html'">
+                <div class="itemNumber">13</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID12_1505405465985_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2403_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2403.jpg" id="ID12_1505405465985_thumb" alt="%_tempFileNameIMG_2403%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2408_large.html'">
+                <div class="itemNumber">14</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID13_1505405465987_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2408_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2408.jpg" id="ID13_1505405465987_thumb" alt="%_tempFileNameIMG_2408%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2430_large.html'">
+                <div class="itemNumber">15</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID14_1505405465989_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2430_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2430.jpg" id="ID14_1505405465989_thumb" alt="%_tempFileNameIMG_2430%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='IMG_2432_large.html'">
+                <div class="itemNumber">16</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID15_1505405465991_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2432_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2432.jpg" id="ID15_1505405465991_thumb" alt="%_tempFileNameIMG_2432%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='IMG_2439_large.html'">
+                <div class="itemNumber">17</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID16_1505405465993_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2439_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2439.jpg" id="ID16_1505405465993_thumb" alt="%_tempFileNameIMG_2439%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='IMG_2446_large.html'">
+                <div class="itemNumber">18</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID17_1505405465996_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2446_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2446.jpg" id="ID17_1505405465996_thumb" alt="%_tempFileNameIMG_2446%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div class="pagination">
+            <ul>
+              <li>
+                <a href="index.html">1</a>
+              </li>
+              <li class="current">2</li>
+              <li>
+                <a href="index_3.html">3</a>
+              </li>
+              <li class="previous">
+                <a class="paginationLinks" href="index.html">Previous</a>
+              </li>
+              <li class="next">
+                <a class="paginationLinks" href="index_3.html">Next</a>
+              </li>
+            </ul>
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index_3.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage">
+            <div id="index">
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2456_large.html'">
+                <div class="itemNumber">19</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID18_1505405465998_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2456_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2456.jpg" id="ID18_1505405465998_thumb" alt="%_tempFileNameIMG_2456%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2457_large.html'">
+                <div class="itemNumber">20</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID19_1505405466000_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2457_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2457.jpg" id="ID19_1505405466000_thumb" alt="%_tempFileNameIMG_2457%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2459_large.html'">
+                <div class="itemNumber">21</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID20_1505405466002_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2459_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2459.jpg" id="ID20_1505405466002_thumb" alt="%_tempFileNameIMG_2459%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2463_large.html'">
+                <div class="itemNumber">22</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID21_1505405466004_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2463_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2463.jpg" id="ID21_1505405466004_thumb" alt="%_tempFileNameIMG_2463%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft   " onclick="window.location.href='IMG_2464_large.html'">
+                <div class="itemNumber">23</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID22_1505405466006_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2464_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2464.jpg" id="ID22_1505405466006_thumb" alt="%_tempFileNameIMG_2464%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div xmlns="" id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+		var nameDiv = document.getElementById("tempDiv");
+		var thumbnailName = getName(nameDiv.innerHTML);
+		try {
+			nameDiv.parentNode.removeChild(nameDiv);
+		} catch (e) {}
+	</script>
+              <div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='IMG_2467_large.html'">
+                <div class="itemNumber">24</div>
+                <div onmouseover="window.gridOn( this.parentNode, 'ID23_1505405466009_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+                  <div class="alignmentOuter2">
+                    <div class="alignmentMiddle">
+                      <div class="alignmentInner">
+                        <div class="AdjustZIndex">
+                          <a href="IMG_2467_large.html" onclick="return needThumbImgLink;">
+                            <img src="../content/bin/images/thumb/IMG_2467.jpg" id="ID23_1505405466009_thumb" alt="%_tempFileNameIMG_2467%"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+              <div class="emptyThumbnail borderTopLeft  borderBottom"> </div>
+              <div class="emptyThumbnail borderTopLeft  borderBottom"> </div>
+              <div class="emptyThumbnail borderTopLeft borderRight borderBottom"> </div>
+              <div class="clear">
+                <!--padding for ie-->
+              </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div class="pagination">
+            <ul>
+              <li>
+                <a href="index.html">1</a>
+              </li>
+              <li>
+                <a href="index_2.html">2</a>
+              </li>
+              <li class="current">3</li>
+              <li class="previous">
+                <a class="paginationLinks" href="index_2.html">Previous</a>
+              </li>
+              <li class="next">Next</li>
+            </ul>
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2363_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "0_1505405453235" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID0_1505405453235' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">Previous</li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2364_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2363.jpg" width="540" height="720" id="ID0_1505405453235" alt="%_tempFileNameIMG_2363%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID0_1505405453235' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2364_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "1_1505405465960" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID1_1505405465960' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2363_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2367_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2364.jpg" width="240" height="320" id="ID1_1505405465960" alt="%_tempFileNameIMG_2364%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID1_1505405465960' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2367_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "2_1505405465962" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID2_1505405465962' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2364_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2375_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2367.jpg" width="240" height="320" id="ID2_1505405465962" alt="%_tempFileNameIMG_2367%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID2_1505405465962' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2375_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "3_1505405465964" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID3_1505405465964' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2367_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2377_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2375.jpg" width="240" height="320" id="ID3_1505405465964" alt="%_tempFileNameIMG_2375%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID3_1505405465964' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2377_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "4_1505405465967" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID4_1505405465967' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2375_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2380_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2377.jpg" width="240" height="320" id="ID4_1505405465967" alt="%_tempFileNameIMG_2377%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID4_1505405465967' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2380_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "5_1505405465969" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID5_1505405465969' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2377_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2382_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2380.jpg" width="240" height="320" id="ID5_1505405465969" alt="%_tempFileNameIMG_2380%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID5_1505405465969' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2382_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "6_1505405465971" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID6_1505405465971' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2380_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2384_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2382.jpg" width="240" height="320" id="ID6_1505405465971" alt="%_tempFileNameIMG_2382%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID6_1505405465971' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2384_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "7_1505405465973" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID7_1505405465973' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2382_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2387_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2384.jpg" width="240" height="320" id="ID7_1505405465973" alt="%_tempFileNameIMG_2384%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID7_1505405465973' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2387_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "8_1505405465976" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID8_1505405465976' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2384_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2392_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index.html">
+                  <img src="../content/bin/images/large/IMG_2387.jpg" width="240" height="320" id="ID8_1505405465976" alt="%_tempFileNameIMG_2387%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID8_1505405465976' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2392_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "9_1505405465978" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID9_1505405465978' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2387_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2393_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2392.jpg" width="240" height="320" id="ID9_1505405465978" alt="%_tempFileNameIMG_2392%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID9_1505405465978' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2393_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "10_1505405465980" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID10_1505405465980' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2392_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2399_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2393.jpg" width="240" height="320" id="ID10_1505405465980" alt="%_tempFileNameIMG_2393%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID10_1505405465980' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2399_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "11_1505405465983" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID11_1505405465983' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2393_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2403_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2399.jpg" width="240" height="320" id="ID11_1505405465983" alt="%_tempFileNameIMG_2399%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID11_1505405465983' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2403_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "12_1505405465985" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID12_1505405465985' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2399_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2408_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2403.jpg" width="540" height="720" id="ID12_1505405465985" alt="%_tempFileNameIMG_2403%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID12_1505405465985' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2408_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "13_1505405465987" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID13_1505405465987' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2403_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2430_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2408.jpg" width="240" height="320" id="ID13_1505405465987" alt="%_tempFileNameIMG_2408%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID13_1505405465987' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2430_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "14_1505405465989" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID14_1505405465989' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2408_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2432_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2430.jpg" width="240" height="320" id="ID14_1505405465989" alt="%_tempFileNameIMG_2430%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID14_1505405465989' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2432_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "15_1505405465991" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID15_1505405465991' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2430_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2439_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2432.jpg" width="240" height="320" id="ID15_1505405465991" alt="%_tempFileNameIMG_2432%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID15_1505405465991' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2439_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "16_1505405465993" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID16_1505405465993' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2432_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2446_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2439.jpg" width="240" height="320" id="ID16_1505405465993" alt="%_tempFileNameIMG_2439%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID16_1505405465993' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2446_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "17_1505405465996" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID17_1505405465996' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2439_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_2.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2456_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_2.html">
+                  <img src="../content/bin/images/large/IMG_2446.jpg" width="240" height="320" id="ID17_1505405465996" alt="%_tempFileNameIMG_2446%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID17_1505405465996' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2456_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "18_1505405465998" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID18_1505405465998' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2446_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2457_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2456.jpg" width="540" height="720" id="ID18_1505405465998" alt="%_tempFileNameIMG_2456%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID18_1505405465998' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2457_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "19_1505405466000" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID19_1505405466000' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2456_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2459_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2457.jpg" width="720" height="720" id="ID19_1505405466000" alt="%_tempFileNameIMG_2457%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID19_1505405466000' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2459_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "20_1505405466002" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID20_1505405466002' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2457_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2463_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2459.jpg" width="540" height="720" id="ID20_1505405466002" alt="%_tempFileNameIMG_2459%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID20_1505405466002' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2463_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "21_1505405466004" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID21_1505405466004' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2459_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2464_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2463.jpg" width="240" height="320" id="ID21_1505405466004" alt="%_tempFileNameIMG_2463%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID21_1505405466004' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2464_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "22_1505405466006" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID22_1505405466006' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2463_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">
+                    <a class="detailLinks" href="IMG_2467_large.html">Next</a>
+                  </li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2464.jpg" width="240" height="320" id="ID22_1505405466006" alt="%_tempFileNameIMG_2464%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID22_1505405466006' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+  <file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/IMG_2467_large.html">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Adobe Lightroom"/>
+        <title>LifeGallery</title>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="150540545323012224_custom.css"/>
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css"/>
+        <script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "23_1505405466009" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+        <script type="text/javascript" src="../resources/js/liveUpdate.js">
+          <!--padding for ie-->
+        </script>
+        <script type="text/javascript" src="../resources/js/cutName.js">
+          <!--padding for ie-->
+        </script>
+        <!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+        <!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+        <!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+      </head>
+      <body>
+        <div id="wrapper2">
+          <div id="sitetitle">
+            <h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">LifeGallery</h1>
+          </div>
+          <div id="collectionHeader">
+            <h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">My Photographs</h1>
+            <p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">Website Photo Gallery </p>
+          </div>
+          <div id="stage2">
+            <div id="previewFull" class="borderTopLeft borderBottomRight">
+              <div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID23_1505405466009' );"> </div>
+              <div class="detailNav">
+                <ul>
+                  <li class="previous">
+                    <a class="detailLinks" href="IMG_2464_large.html">Previous</a>
+                  </li>
+                  <li class="index">
+                    <a href="index_3.html" class="detailLinks">Index</a>
+                  </li>
+                  <li class="next">Next</li>
+                </ul>
+              </div>
+              <div id="tempDiv">
+                <!--padding for OS X 10.6-->
+              </div>
+              <div id="tempWidth">
+                <!--padding for OS X 10.6-->
+              </div>
+              <script type="text/javascript">
+			var nameDiv = document.getElementById("tempDiv");
+			var widthDiv = document.getElementById("tempWidth");
+			var width = parseInt(widthDiv.innerHTML, 10);
+			var largeName = addSpace(nameDiv.innerHTML, width - 14);
+			try {
+				nameDiv.parentNode.removeChild(nameDiv);
+				widthDiv.parentNode.removeChild(widthDiv);
+			} catch (e) {}
+		</script>
+              <div id="detailImage">
+                <a href="index_3.html">
+                  <img src="../content/bin/images/large/IMG_2467.jpg" width="540" height="720" id="ID23_1505405466009" alt="%_tempFileNameIMG_2467%"/>
+                </a>
+              </div>
+              <div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID23_1505405466009' );"> </div>
+            </div>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+          <div id="contact">
+            <a href="mailto:michael.mathew@stonybrook.edu">
+              <span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Michael Mathew</span>
+            </a>
+          </div>
+          <div class="clear">
+            <!--padding for ie-->
+          </div>
+        </div>
+      </body>
+    </html>
+  </file>
+</files>

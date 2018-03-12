@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+    <photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="147438053087562245" idplateEnabled="false" css="     #previewFull {background-color: #666666 !important; width: 670px !important; color: inherit}     #liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}     .borderRightDotted {border-right: 1px dotted #787878 !important;}     .logo {display: none !important;}     #liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}     .detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}     .emptyThumbnail {background-color: #949494 !important; color: inherit;}     .thumbnail {background-color: #949494 !important; color: inherit;}     .previewFullImage {height: 640px !important; width: 670px !important;}     #stage2 {width: 670px !important;}     .itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}     #content {background-color: #4c4c4c !important; color: inherit;}     .borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}     #stage {width: 484px !important;}     .caption {color: #b3b3b3 !important; background-color: inherit;}     #wrapper2 {width: 670px !important;}     .borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}     #wrapper {width: 484px !important;}     #liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}     .paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}     .selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}     #liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}     #thumbnailName {color: #b3b3b3 !important; background-color: inherit;}     #largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}     .borderBottom {border-bottom: 1px solid #787878 !important;}     .borderRight {border-right: 1px solid #787878 !important;}     body {background-color: #4c4c4c !important; color: inherit;}    " identityPlateAbsolutePath="" numCols="3" numRows="3" homePage="index.html" imageBase="content" cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Tue Sep 20 2016 10:08:50 GMT-0400"/>
+			<groupTitle value="Carriage Reference"/>
+			<contactInfo value="Tony Scarlatos" link="mailto:anthony.scarlatos@stonybrook.edu"/>
+			<siteTitle value="LIM Carriages"/>
+			<groupDescription value="Photos taken at the Long Island Museum"/>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"/>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"/>
+			<item id="Fullsize" localized="Fullsize"/>
+			<item id="Next" localized="Next"/>
+			<item id="Previous" localized="Previous"/>
+			<item id="EmptyGallery" localized="There are no images in this gallery."/>
+			<item id="more" localized="more"/>
+			<item id="Index" localized="Index"/>
+		</localization>
+	</display>
+	<head>
+		<siteTitle/>
+		<collectionName/>
+		<collectionTitle/>
+		<collectionDescription/>
+		<contactInfo/>
+		<slideDuration/>
+		<sizes>
+			<size name="large" height="640" width="640"/>
+			<size name="thumb" height="129" width="129"/>
+		</sizes>
+	</head>
+	<samples totalGallerySize="19" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1474380530880" filename="IMG_4824" tipname="%_tempFileNameIMG_4824%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4824.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4824.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="1_1474380530882" filename="IMG_4827" tipname="%_tempFileNameIMG_4827%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4827.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4827.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="2_1474380530884" filename="IMG_4828" tipname="%_tempFileNameIMG_4828%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4828.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4828.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="3_1474380530887" filename="IMG_4829" tipname="%_tempFileNameIMG_4829%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4829.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4829.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="4_1474380530890" filename="IMG_4832" tipname="%_tempFileNameIMG_4832%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4832.jpg" height="640" width="426" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4832.jpg" height="129" width="86" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="5_1474380530892" filename="IMG_4834" tipname="%_tempFileNameIMG_4834%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4834.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4834.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="6_1474380530894" filename="IMG_4836" tipname="%_tempFileNameIMG_4836%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4836.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4836.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="7_1474380530896" filename="IMG_4837" tipname="%_tempFileNameIMG_4837%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4837.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4837.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="8_1474380530898" filename="IMG_4838" tipname="%_tempFileNameIMG_4838%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4838.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4838.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="9_1474380530899" filename="IMG_4840" tipname="%_tempFileNameIMG_4840%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4840.jpg" height="640" width="426" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4840.jpg" height="129" width="86" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="10_1474380530901" filename="IMG_4841" tipname="%_tempFileNameIMG_4841%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4841.jpg" height="640" width="426" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4841.jpg" height="129" width="86" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="11_1474380530902" filename="IMG_4842" tipname="%_tempFileNameIMG_4842%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4842.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4842.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="12_1474380530904" filename="IMG_4843" tipname="%_tempFileNameIMG_4843%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4843.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4843.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="13_1474380530905" filename="IMG_4844" tipname="%_tempFileNameIMG_4844%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4844.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4844.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="14_1474380530907" filename="IMG_4845" tipname="%_tempFileNameIMG_4845%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4845.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4845.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="15_1474380530909" filename="IMG_4846" tipname="%_tempFileNameIMG_4846%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4846.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4846.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="16_1474380530910" filename="IMG_4847" tipname="%_tempFileNameIMG_4847%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4847.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4847.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="17_1474380530912" filename="IMG_4848" tipname="%_tempFileNameIMG_4848%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4848.jpg" height="640" width="426" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4848.jpg" height="129" width="86" size="thumb"/>
+	</img>
+	<img orientation="BC" imageID="18_1474380530913" filename="IMG_4849" tipname="%_tempFileNameIMG_4849%">
+		<text>
+			<title/>
+			<description/>
+		</text>
+		<rendition path="content/bin/images/large/IMG_4849.jpg" height="426" width="640" size="large"/>
+		<rendition path="content/bin/images/thumb/IMG_4849.jpg" height="86" width="129" size="thumb"/>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"/>
+		<lastImage index="19"/>
+		<mode value="all"/>
+	</siteParams>
+</photoCollection>
